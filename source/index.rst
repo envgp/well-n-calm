@@ -20,6 +20,13 @@ List of major projects incuding well data are:
 With the organization of well data in these projects, we also develop a basic python code base such that
 one can easily explore the existing data sets, import new data, and export the data sets to various formats (e.g. LAS, CSV).
 
+.. figure:: california_water_wells.png
+    :align: center
+    :scale: 30 %
+
+    Location of the water wells in California. Around milllon wells are plotted.
+
+
 Contents:
 ^^^^^^^^^
 
