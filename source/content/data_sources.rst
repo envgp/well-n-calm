@@ -26,10 +26,12 @@ The California Statewide Groundwater Elevation Monitoring (CASGEM) Program
 DOGGR
 =====
 
-- Provider:
-- Data types:
+Division of Oil, Gas, and Geothermal Resources (DOGGR)
+
+- Provider: California Department of conservation
+- Data types: lithology logs, geophysical logs (resistivity, self-potential, gamma, ...)
 - Web links:
-    -
+    - https://www.conservation.ca.gov/dog/Pages/WellFinder.aspx
 
 GAMMA
 =====

@@ -37,6 +37,7 @@ Contents:
    content/data_format.rst
    content/data_types.rst
    content/data_explorer.rst
+   content/lessons_learned.rst
 
 Feedback:
 ^^^^^^^^^
